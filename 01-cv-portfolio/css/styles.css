@@ -195,12 +195,13 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 	
 /* COLORS*/
 .education-section{ background: #cc5500; color: #fff; }
+.projects-section{ background: #cc5500; color: #fff; }
 
 /* ---------------------------------
 7. EXPERIENCE SECTION
 --------------------------------- */
 
-.experience-section{ background: #ffffff; color: #fff; }
+.experience-section{ background: #ffffff; color: #000; }
 
 .experience .list > li{ display: block; position: relative; margin-bottom: 10px; padding-left: 20px; }
 
