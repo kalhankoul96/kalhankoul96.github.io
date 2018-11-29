@@ -89,15 +89,16 @@ b.max-bold{ font-weight: 700; }
 .section .heading:before{ content:''; height: 10px; width: 50px; border-radius: 5px;
 	margin-bottom: 20px; display: block; background: #FFA804; }
 	
-.margin-t-10{ margin-top: 5px; }
+.margin-t-10{ margin-top: 3px; }
 
-.margin-b-30{ margin-bottom: 15px; }
+.margin-b-30{ margin-bottom: 10px; }
 .margin-b-50{ margin-bottom: 25px; }
 
-.margin-tb-30{ margin-top: 15px; margin-bottom: 15px; }
+.margin-tb-30{ margin-top: 10px; margin-bottom: 10px; }
 
 .font-yellow{ color: #FFA600; }
 .font-white{ color: #FFFFFF; }
+.font-blue{ color: #000080; }
 
 .font-semi-white{ color: #ddd; }
 
@@ -142,6 +143,8 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 .intro .profile-img{ height: 200px; width: 200px; border-radius: 100px; margin: 0 auto; 
 	overflow: hidden; position: relative; top: -100px; margin-bottom: -70px;  }
+
+.projects .thesis-img{ height: 50px; width: 50px;  }
 
 .intro .information > li{ display: block; margin: 5px 0; }
 
